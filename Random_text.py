@@ -1,7 +1,7 @@
 import random
 import pyautogui as pg
 import time
-
+#HimanshuJoshi Skills
 skills = ('Good Morning','Good Afternoon', 'Good Evening')
 time.sleep(10)
 for i in range (500):
